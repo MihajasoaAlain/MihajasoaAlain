@@ -15,21 +15,6 @@
   <img src="https://skillicons.dev/icons?i=go,ts,java,kotlin,react,nextjs,nestjs,spring,mongodb,postgres,firebase,git,github,figma" />
 </p>
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MihajasoaAlain&theme=dark&hide_border=true&show_icons=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MihajasoaAlain&theme=dark&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihajasoaAlain&theme=dark&hide_border=true&layout=compact" height="130"/>
-</p>
-
----
-
 ## ✍️ Dev Quote
 
 <p align="center">
@@ -37,7 +22,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MihajasoaAlain&color=38BDF8" />
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MihajasoaAlain&color=38BDF8&style=flat-square&label=VISITEURS" />
 </p>
