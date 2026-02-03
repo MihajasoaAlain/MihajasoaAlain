@@ -9,13 +9,13 @@
 
 ---
 
-## 🧠 Tech Stack (Core)
+## Tech Stack (Core)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,ts,java,kotlin,react,nextjs,nestjs,spring,mongodb,postgres,firebase,git,github,figma" />
 </p>
 
-## ✍️ Dev Quote
+## Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
