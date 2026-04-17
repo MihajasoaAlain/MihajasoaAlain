@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <a href="mailto:fiharysoft@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:mihajasoaalain85@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/MihajasoaAlain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=MihajasoaAlain&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
@@ -84,15 +84,6 @@ func main() {
 
 </div>
 
----
-
-## Trophy Case
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MihajasoaAlain&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</div>
-
----
 
 ## Contribution Activity
 
