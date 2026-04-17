@@ -84,13 +84,6 @@ func main() {
 
 </div>
 
-
-## Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MihajasoaAlain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true" width="100%"/>
-</div>
-
 ---
 
 ## Dev Quote
