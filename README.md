@@ -13,7 +13,7 @@
   <img src="https://komarev.com/ghpvc/?username=MihajasoaAlain&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS"/>
 </p>
 
-</div>
+</div>    
 
 ---
 
@@ -69,19 +69,6 @@ func main() {
 **Tools & Platform**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,figma,postman,linux"/>
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MihajasoaAlain&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9"/>
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=MihajasoaAlain&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=C9D1D9&stroke=38BDF8"/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihajasoaAlain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8"/>
 
 </div>
 
